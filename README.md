@@ -7,6 +7,7 @@ Reconstruction of a CNN-based framework for detecting epileptic seizures, based 
 This project is based on the following paper:
 
 **Citation:**
-Sameer, M., & Gupta, B. (2022). *CNN based framework for detection of epileptic seizures*. Multimed Tools Appl, 81, 17057–17070. DOI: [10.1007/s11042-022-12702-9](https://doi.org/10.1007/s11042-022-12702-9)
+Sameer, M., & Gupta, B. (2022). *CNN based framework for detection of epileptic seizures*. Multimed Tools Appl, 81, 17057–17070.
+DOI: [10.1007/s11042-022-12702-9](https://doi.org/10.1007/s11042-022-12702-9)
 
 **Link to Paper:** [Read the paper here](https://doi.org/10.1007/s11042-022-12702-9)
